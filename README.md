@@ -7,18 +7,22 @@
 
 ---
 
-### 🛠️ Tech Stack & Expertise
-
-* **Languages & Libraries:** Python, Scikit-Learn, Pandas, NumPy
-* **Core Machine Learning & AI Domains:**
-  * **Supervised Learning:** Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM)
-  * **Unsupervised Learning:** K-Means Clustering, Principal Component Analysis (PCA), Hierarchical Clustering
-  * **Feature Engineering:** Missing Value Imputation, Outlier Handling, Feature Scaling (Standardization/Normalization), Encoding (One-Hot, Label Encoding)
-  * **Data Visualization:** Matplotlib, Seaborn (Exploratory Data Analysis, Distribution Plots, Heatmaps)
-  * **Generative AI (GenAI):** Prompt Engineering, LLM Integration, Fine-Tuning Concepts
-* **Tools & Environment:** VS Code, Google Colab, Git & GitHub
-
----
-
-### 📊 GitHub Stats
-![gitSAMIR55's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitSAMIR55&show_icons=true&theme=radical)
+### ⚡ Tech Stack & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
