@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋, I'm Samir Mishra 
 
-<!--
-**gitSAMIR55/gitSAMIR55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 B.Tech Undergrad at RCCIIT (Final Year)
+* 🤖 Passionate about **AI/ML, Python, and Data Structures & Algorithms**
+* 🚀 Building AI-driven solutions and looking for new opportunities
+* 🌐 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/samir-mishra-a851a3287/) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Expertise
+
+* **Languages & Libraries:** Python, Scikit-Learn, Pandas, NumPy
+* **Core Machine Learning & AI Domains:**
+  * **Supervised Learning:** Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM)
+  * **Unsupervised Learning:** K-Means Clustering, Principal Component Analysis (PCA), Hierarchical Clustering
+  * **Feature Engineering:** Missing Value Imputation, Outlier Handling, Feature Scaling (Standardization/Normalization), Encoding (One-Hot, Label Encoding)
+  * **Data Visualization:** Matplotlib, Seaborn (Exploratory Data Analysis, Distribution Plots, Heatmaps)
+  * **Generative AI (GenAI):** Prompt Engineering, LLM Integration, Fine-Tuning Concepts
+* **Tools & Environment:** VS Code, Google Colab, Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+![gitSAMIR55's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitSAMIR55&show_icons=true&theme=radical)
